@@ -40,4 +40,5 @@ def dias(ano):
 if __name__=='__main__':
     s = dias(2008)
     print(s)
+    print(indice)
     
